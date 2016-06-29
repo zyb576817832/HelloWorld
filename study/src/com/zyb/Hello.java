@@ -6,4 +6,7 @@ public class Hello {
 		
 		System.out.println("hello world");
 	}
+ 	public void method1(){
+		System.out.pritln("method·½·¨");
+	}
 }
