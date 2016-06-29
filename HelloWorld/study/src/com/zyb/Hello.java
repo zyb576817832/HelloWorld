@@ -5,9 +5,8 @@ public class Hello {
 	public static void main(String[] args) {
 		
 		System.out.println("hello world,sb yanbio");
-		System.out.println("席卫卫真厉害,修改成功了");	
-	}
- 	public void method1(){
-		System.out.pritln("method����");
+		System.out.println("这真是一个令人痛心的代码");
+			System.out.println("写的贼炸");
+
 	}
 }
